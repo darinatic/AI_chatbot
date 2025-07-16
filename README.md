@@ -2,6 +2,8 @@
 
 An end-to-end AI chatbot application built with LangGraph and Streamlit that supports both basic conversation and web-enhanced responses using Tavily search integration.
 
+<img src="./images/chat_screenshot.JPG" width="600" alt="Screenshot">
+
 ## 🚀 Features
 
 - **Dual Chatbot Modes**: 
